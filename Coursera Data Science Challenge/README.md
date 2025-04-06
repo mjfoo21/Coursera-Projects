@@ -26,6 +26,6 @@ This project aims to build predictive models for customer churn and submit final
 ## 📂 Repository Structure
 - `ChurnPrediction.ipynb` - Jupyter notebook containing the full analysis, model building, and evaluation process.
 - `data_descriptions.csv` - Data catalogue.
-- `train.csv` - Training datat containing features and churn.
+- `train.csv` - Training data containing features and churn.
 - `test.csv` - Test data for model evaluation.
 - `README.md` - Project documentation.
