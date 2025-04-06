@@ -15,7 +15,7 @@ This project aims to perform exploratory data analysis on transactional data fro
 
 ### 3. Building Recommendation Models
 - Tested various recommendation models, including popularity model, neighbourhood-based recommendation and collaborative filtering.
-- Identified the best performers based on well-defined metrics
+- Identified neighbourhood-based model as the best performer, achieving a **recall@5 score of 0.49** and a **recall@10 score of 0.64**. This means that in 49% of the cases, the product a user eventually chose was among the model’s top 5 recommendations, and in 64% of the cases, it was within the top 10.
 
 ## 📂 Repository Structure
 - `online_retail.ipynb` - Jupyter notebook containing the full analysis, model building, and evaluation process.
