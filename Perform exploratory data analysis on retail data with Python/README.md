@@ -6,7 +6,7 @@ This project aims to perform exploratory data analysis on transactional data fro
 ## 🔍 Project Workflow
 ### 1. Data Preprocessing
 - Examined the datasets for missing data, incorrect information, duplicates.
-- Performed necessary rectifications to clean the data
+- Performed necessary rectifications to clean the data.
 
 ### 2. Data Exploration
 - Separated sales and cancellation datasets.

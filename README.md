@@ -17,6 +17,14 @@ Welcome to my GitHub repository, where I showcase projects completed as part of 
 - **Approach:** Performed EDA on the datasets and proposed three models of recommendation systems to boost sales.
 - **Skills Applied:** Data preprocessing, exploratory data analysis, market basket analysis, recommendation system.
 
+### Job Posting Web Scraping, Analysis and Recommendation System
+
+- **Course:** [Scrape and analyze data analyst job requirements with Python
+](https://www.coursera.org/projects/scrape-job-postings-data-analyst)
+- **Objective:** To automate the extraction and analysis of job postings to support recruitment agencies in sourcing relevant roles for candidates.
+- **Approach:** Scraped job postings from the Internet, performed data cleaning, exploratory analysis, clustering, and candidate-job matching.
+- **Skills Applied:** Web scraping, data preprocessing, exploratory data analysis, clustering (LLM-based), TF-IDF, recommendation system.
+
 ## 🔍 Future Additions
 This repository will be updated with more projects as I progress through additional courses in machine learning and data science.
 
